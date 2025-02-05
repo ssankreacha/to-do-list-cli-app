@@ -9,8 +9,6 @@ A simple **command-line** To-Do List application that allows users to efficientl
 ✅ Delete tasks  
 ✅ Save tasks to a file so they persist after closing  
 
-This project is designed for **beginners** who want to practice Python concepts such as **file handling, functions, and user input handling**.
-
 ---
 
 ## 🛠️ Features
